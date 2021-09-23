@@ -7,7 +7,7 @@ https://lightning.bitflyer.com/docs?lang=ja
 Ticker json file(BTC_JPY)<br>
 https://lightning.bitflyer.com/v1/ticker
 
-youtube解説
+youtube解説<br>
 https://www.youtube.com/watch?v=bTugqJgSCc8&t=88s
 
 
