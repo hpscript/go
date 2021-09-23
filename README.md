@@ -15,4 +15,8 @@ $ sudo apt install golang-go
 実行<br>
 $ go run main.go
 
-※main.goの44行目のtemplate file(html)の絶対パスは適時置き換えて使用ください。
+※main.goの44行目のtemplate file(html)の絶対パスは適時置き換えて使用ください。<br>
+※独自ドメインを取得して外部公開する際は、80番ポートで起動します。<br>
+```
+	log.Fatal(http.ListenAndServe(":80",nil))
+```
